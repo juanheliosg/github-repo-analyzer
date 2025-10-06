@@ -57,8 +57,6 @@ github-repo-analyzer/
 │   ├── README.md                   # Project overview
 │   ├── INSTALL.md                  # Installation guide
 │   ├── USAGE_EXAMPLES.md           # Usage examples
-│   ├── VISUAL_REPORT_GUIDE.md      # Report interpretation
-│   └── CONTENT_ANALYSIS_DOCS.md    # Technical documentation
 ├── ⚙️ Configuration
 │   ├── requirements.txt            # Python dependencies
 │   ├── .gitignore                  # Git ignore rules
